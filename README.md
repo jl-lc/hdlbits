@@ -1,2 +1,2 @@
 # hdlbits
-hdlbits practice of interest
+hdlbits practice of interest for interviews
