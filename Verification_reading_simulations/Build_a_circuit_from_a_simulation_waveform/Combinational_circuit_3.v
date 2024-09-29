@@ -5,6 +5,7 @@ module top_module (
     input d,
     output q );//
 
+    // PoS
     assign q = (a | b) & (c | d); // Fix me
 
 endmodule
